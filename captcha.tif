@@ -1,0 +1,51 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <META NAME="ROBOTS" CONTENT="NOINDEX" />
+  <meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+  <title>Receita Federal do Brasil</title>
+  <script language="javascript" src="/js/Start.js" type="text/javascript"></script>
+  <style type="text/css" >
+  	.TituloPaginas {
+  		height: auto;
+  		font: inherit;
+  	}
+  	.TituloPaginas DIV {
+  		margin: 2px 0;
+  	}
+  	.TituloPaginas STRONG {
+  		font-size: larger;
+  	}
+  </style>
+</head>
+
+<body>
+  <div id="SRFWWW_AreaMenu_Cabecalho"></div>
+  <div class="divMiolo">	
+		<div class="TituloPaginas">
+			<div><strong>Erro 404 - Página não encontrada</strong></div>
+			<script type="text/javascript">
+				document.write("<div>" + document.location.href.replace(/</,"&gt;") + "</div>");
+			</script>
+		</div>	
+		<p>
+			Não existe página no sítio da Receita Federal que corresponda a este endereço.
+			É possível que você tenha digitado a URL errada ou a página tenha sido excluída.
+		</p>		
+		<p>
+			Se você está certo que o endereço informado está correto mas está 
+			encontrando um erro, por favor contate a
+			<a href="https://idg.receita.fazenda.gov.br/contato">Administração do Site</a>. Obrigado.</p>
+		<p>
+			Caso queira tentar novo acesso, poderá utilizar os endereços abaixo, que esperamos
+			possam ajudá-lo a encontrar o item procurado.</p>
+		<ul>
+			<li><a href="http://www.receita.fazenda.gov.br/">Página inicial</a></li>
+			<li><a href="http://www.receita.fazenda.gov.br/aplicacoes/atbhe/tus/default.aspx">Serviços disponíveis</a></li>
+		</ul>		
+	</div>
+</body>
+
+</html>
